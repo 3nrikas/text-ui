@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&family=Montserrat:wght@400;500;600&family=Orbitron&family=Poppins:wght@600;700&display=swap');
+
+.ui {
+    padding: 0.625em 2em;
+    max-width: 17em;
+
+    color: #fff;
+    background-color: #101820FF;
+    border-radius: 5px;
+
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    font-size: medium;
+}
