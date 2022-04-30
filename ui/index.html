@@ -10,8 +10,7 @@
   <body>
         <center>
               <div class="ui" style="margin-top: 1.5rem;" x-data="main()" x-init="listener()"
-              x-transition:enter.duration.400ms
-              x-transition:leave.duration.400ms
+              x-transition.duration.400ms
               x-show="display === true">
                 <span x-text="txt"></span>
               </div>
